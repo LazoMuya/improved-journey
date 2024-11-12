@@ -1,0 +1,12 @@
+{
+  "name": "improved-journey",
+  "version": "1.0.0",
+  "description": "A collection of individual files that aren't part of a single project, but are still useful.......to me.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
